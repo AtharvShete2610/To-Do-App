@@ -25,15 +25,15 @@ This project allows users to manage daily tasks by adding, viewing, marking task
 ---
 
 ## 📂 Project Structure
+
 To-Do-App/
 │
-├── app.py
-├── templates/
-│ └── index.html
-├── static/
-│ └── style.css
-└── README.md
-
+├── app.py                 # Main Flask application file
+├── templates/             # HTML templates
+│   └── index.html         # Main UI template
+├── static/                # Static files (CSS)
+│   └── style.css          # Styling for the application
+└── README.md              # Project documentation
 
 ---
 
